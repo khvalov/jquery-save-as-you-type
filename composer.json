@@ -3,7 +3,7 @@
 "type": "yii2-extension",
 "description": "jquery-save-as-you-type jquery-plugin integration",
 "keywords": [
-"yii2"
+"yii2",
 "js"
 ],
 "license": "MIT",
